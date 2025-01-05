@@ -1,1 +1,1 @@
-# QuickTrade-
+# QuickTrade
