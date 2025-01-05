@@ -86,10 +86,10 @@ DOUYIN_APP_ID=你的抖音小程序ID
 ## 📱 小程序
 
 ### 微信小程序
-![微信二维码](wechat-qr-placeholder.png)
+
 
 ### 抖音小程序
-![抖音二维码](douyin-qr-placeholder.png)
+
 
 ## 📚 API文档
 
